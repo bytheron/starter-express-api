@@ -1,0 +1,23 @@
+{
+    "InspectionID": "",
+    "InspectionNumber": "1234",
+    "InspectorCode": "123456",
+    "InspectorName": "Piet",
+    "InspectorSurname": "Pompies",
+    "SupervisorName": "John",
+    "SupervisorSurname": "Smith",
+    "ApprovalStatus": "",
+    "ApprovalDate": "1/1/2024",
+    "InspectDate": "2/1/2024",
+    "VersionNumber": "1",
+    "DepotCode": "0",
+    "PHC": "G1234",
+    "PUC": "",
+    "Orchard": "OR001",
+    "Commodity": "",
+    "Variety": "",
+    "SampleSize": "small",
+    "Degreened": "0",
+    "CreateUser": "PietPompies",
+    "CreateDate": "2/1/2024"
+}

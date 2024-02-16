@@ -1,0 +1,117 @@
+[
+    {
+        "type": "Injury",
+        "number": 0,
+        "percentage": "0"
+    },
+    {
+        "type": "Decay",
+        "number": 0,
+        "percentage": "0"
+    },
+    {
+        "type": "Broken",
+        "number": 0,
+        "percentage": "0"
+    },
+    {
+        "type": "Stung (FCM/FF)",
+        "number": 0,
+        "percentage": "0"
+    },
+    {
+        "type": "Long Stems",
+        "number": 0,
+        "percentage": "0"
+    },
+    {
+        "type": "Plugged",
+        "number": 0,
+        "percentage": "0"
+    },
+    {
+        "type": "Oleo",
+        "number": 0,
+        "percentage": "0"
+    },
+    {
+        "type": "Peteca",
+        "number": 0,
+        "percentage": "0"
+    },
+    {
+        "type": "Pitting",
+        "number": 0,
+        "percentage": "0"
+    },
+    {
+        "type": "Creasing",
+        "number": 0,
+        "percentage": "0"
+    },
+    {
+        "type": "Ribbing",
+        "number": 0,
+        "percentage": "0"
+    },
+    {
+        "type": "Sheepnose",
+        "number": 0,
+        "percentage": "0"
+    },
+    {
+        "type": "High Shoulders",
+        "number": 0,
+        "percentage": "0"
+    },
+    {
+        "type": "Navel End",
+        "number": 0,
+        "percentage": "0"
+    },
+    {
+        "type": "Hail",
+        "number": 0,
+        "percentage": "0"
+    },
+    {
+        "type": "Sunburn",
+        "number": 0,
+        "percentage": "0"
+    },
+    {
+        "type": "Granulation",
+        "number": 0,
+        "percentage": "0"
+    },
+    {
+        "type": "Endoxerosis",
+        "number": 0,
+        "percentage": "0"
+    },
+    {
+        "type": "CBS",
+        "number": 0,
+        "percentage": "0"
+    },
+    {
+        "type": "Red Scale",
+        "number": 0,
+        "percentage": "0"
+    },
+    {
+        "type": "Mealybug",
+        "number": 0,
+        "percentage": "0"
+    },
+    {
+        "type": "Sooty Mould",
+        "number": 0,
+        "percentage": "0"
+    },
+    {
+        "type": "Staining",
+        "number": 0,
+        "percentage": "0"
+    }
+]

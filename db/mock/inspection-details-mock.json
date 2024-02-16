@@ -1,0 +1,29 @@
+[
+    {
+        "CullingID": "",
+        "InspectionNumber": "",
+        "CullingFactor": "",
+        "CullingNumber": "",
+        "NumberOfFruit": "",
+        "SamplePercentage": "",
+        "InspectType": "",
+        "InspectUnitNumber": "",
+        "PackCode": "",
+        "SizeCountRange": "",
+        "ColorRange": "",
+        "Brand": "",
+        "TargetMarket": "",
+        "DiameterRange": "",
+        "GrossWeight": "",
+        "NettWeight": "",
+        "Brix": "",
+        "Ratio": "",
+        "Acid": "",
+        "Pressure": "",
+        "JuicePercentage": "",
+        "SamplePhoto": "",
+        "SamplePhotoType": "",
+        "CreateUser": "",
+        "CreateDate": ""
+    }
+]
